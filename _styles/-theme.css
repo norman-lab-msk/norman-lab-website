@@ -23,7 +23,7 @@
 }
 
 :root {
-  --title: "Open Sans Bold 700", sans-serif;
+  --title: "Open Sans", sans-serif;
   --heading: "Open Sans", sans-serif;
   --body: "Open Sans", sans-serif;
   --code: "Roboto Mono", monospace;
@@ -39,6 +39,12 @@
   --rounded: 3px;
   --shadow: 0 0 10px 0 var(--overlay);
   --transition: 0.2s ease;
+}
+
+.title {
+  font-family: var(--title);
+  font-weight: var(--extra-bold); /* Ensure the title is bold */
+  font-size: var(--xxl);
 }
 
 /*# sourceMappingURL=-theme.css.map */

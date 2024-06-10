@@ -43,14 +43,12 @@ header a {
   min-width: 0;
   font-weight: var(--bold) !important;
   font-family: var(--title);
-  font-variant: small-caps;
   text-align: left;
 }
 
 .title {
   font-weight: var(--bold) !important;
   font-size: var(--large);
-  font-variant: small-caps;
 }
 
 .subtitle {

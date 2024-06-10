@@ -1,8 +1,7 @@
 ---
 ---
 
-# Test
-
+Some stuff about the Norman Lab
 
 
 {% include section.html %}

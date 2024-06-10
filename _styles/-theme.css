@@ -41,10 +41,4 @@
   --transition: 0.2s ease;
 }
 
-.title {
-  font-family: var(--title);
-  font-weight: var(--extra-bold); /* Ensure the title is bold */
-  font-size: var(--xxl);
-}
-
 /*# sourceMappingURL=-theme.css.map */

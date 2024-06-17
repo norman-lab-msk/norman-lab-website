@@ -1,7 +1,7 @@
 ---
 ---
 
-Some stuff about the Norman Lab
+Some stuff about the Norman Lab test
 
 
 {% include section.html %}

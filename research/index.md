@@ -16,7 +16,7 @@ Recent cell atlas studies have found remarkable diversity in cell types, but als
 
 {% endcapture %}
 
-{% include feature.html image="images/photo.jpg" link="research" title="Engineering transcriptional state *in vitro*" text=text %}
+{% include feature.html image="images/photo.jpg" link="research" title="Engineering transcriptional state \*in vitro\*" text=text %}
 
 {% capture text %}
 

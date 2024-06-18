@@ -12,11 +12,36 @@ Single-cell CRISPR screens have emerged as a powerful tool for linking genetic p
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Recent cell atlas studies have found remarkable diversity in cell types, but also revealed that even greater heterogeneity exists at the level of transcriptional states within tissues and across disease contexts. By trying to reconstruct these states *in vitro* we hope to understand their origins and learn principles for rationally engineering the transcriptomes of differentiated cell types, with eventual applications to engineering cell therapies.
 
 {% endcapture %}
 
-{% include feature.html image="images/photo.jpg" link="research" title="Our Research" text=text %}
+{% include feature.html image="images/photo.jpg" link="research" title="Engineering transcriptional state *in vitro*" text=text %}
+
+{% capture text %}
+
+We are particularly interested in the biology of fibroblasts, which are ubiquitous throughout the body as the primary constituent cell type of connective tissue. They play critical roles in wound healing, fibrotic disease, and the tumor microenvironment. *In vivo* studies have identified fibroblast subsets defined by transcriptional markers that appear to have functionally distinct roles, some of which we have been able to elicit *in vitro*.
+
+{% endcapture %}
+
+{% include feature.html image="images/photo.jpg" link="research" title="Genetic drivers of fibroblast cell state" text=text %}
+
+{% capture text %}
+
+We are interested in developing new functional genomics approaches to tackle problems that are “beyond genome-scale.” For example, many interesting phenotypes likely arise through interactions between regulators, which are often far too numerous to measure exhaustively. Our lab is developing new experimental approaches for measuring genetic interactions and computational methods for prioritizing which ones to measure.
+
+{% endcapture %}
+
+{% include feature.html image="images/photo.jpg" link="research" title="Combinatorial genetics" text=text %}
+
+{% capture text %}
+
+We develop new CRISPR tools for perturbing the genome and measuring the consequences. A current interest is in methods for reading, writing, and quantifying epigenetic memory.
+
+{% endcapture %}
+
+{% include feature.html image="images/photo.jpg" link="research" title="CRISPR tool development" text=text %}
+
 
 
 ## Highlighted

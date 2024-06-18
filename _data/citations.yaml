@@ -1,25 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1126/science.aax4438
-  title: Exploring genetic interaction manifolds constructed from rich single-cell
-    phenotypes
-  authors:
-  - Thomas M. Norman
-  - Max A. Horlbeck
-  - Joseph M. Replogle
-  - Alex Y. Ge
-  - Albert Xu
-  - Marco Jost
-  - Luke A. Gilbert
-  - Jonathan S. Weissman
-  publisher: Science
-  date: '2019-08-23'
-  link: https://doi.org/gf92ks
-  buttons:
-  - type: source
-    link: https://github.com/thomasmaxwellnorman/Perturbseq_GI
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1038/s41590-023-01527-9
   title: Drivers of heterogeneity in synovial fibroblasts in rheumatoid arthritis
   authors:
@@ -36,6 +16,7 @@
   publisher: Nature Immunology
   date: '2023-06-05'
   link: https://doi.org/gtzxqd
+  orcid: 0000-0002-3755-4379
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1126/science.aaw4506
@@ -51,5 +32,27 @@
   publisher: Science
   date: '2019-10-04'
   link: https://doi.org/gg4mbh
+  orcid: 0000-0002-3755-4379
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1126/science.aax4438
+  title: Exploring genetic interaction manifolds constructed from rich single-cell
+    phenotypes
+  authors:
+  - Thomas M. Norman
+  - Max A. Horlbeck
+  - Joseph M. Replogle
+  - Alex Y. Ge
+  - Albert Xu
+  - Marco Jost
+  - Luke A. Gilbert
+  - Jonathan S. Weissman
+  publisher: Science
+  date: '2019-08-23'
+  link: https://doi.org/gf92ks
+  orcid: 0000-0002-3755-4379
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: source
+    link: https://github.com/thomasmaxwellnorman/Perturbseq_GI

@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-CRISPR genetics and the explosion of experimental methods with single-cell resolution have each transformed our ability to study cell state and how it is perturbed in disease. A second revolution is now unfolding following the marriage of these two fields to produce single-cell CRISPR screens, in which many genetic perturbations (e.g. gene inhibition/activation by CRISPRi/a) are linked in pooled format to high-content measures of their effects (e.g. the transcriptome or morphology). These rich data can both identify genetic perturbations that elicit a particular behavior and catalog the spectrum of phenotypes associated with each genetic perturbation—i.e., one can perform “forward” and “reverse” genetics within the same experiment. The Norman Lab played a foundational role in the development of one of these techniques, Perturb-seq, and continues to develop new approaches to enable massive functional genomics experiments.
-
+Single-cell CRISPR screens have emerged as a powerful tool for linking genetic perturbations (e.g. gene inhibition/activation by CRISPRi/a) to high-content measures of their phenotypic effects (e.g. the transcriptome or morphology). The Norman Lab played a foundational role in the development of one of these techniques, Perturb-seq, continues to develop new approaches that leverage it. Crucially, its transcriptome readout is both quantitative and interpretable, meaning it is possible to reason about progress towards realizing a desired phenotype using computational modeling. As it scales, we believe these features make Perturb-seq a promising tool for rationally engineering cellular transcriptional state.
 {% include section.html %}
 
 ## Highlighted

@@ -15,8 +15,8 @@
     - Doron Lipson
     - Jessica L. Bonnar
     - Marco Jost
-    - "**Thomas M. Norman\***"
-    - "Jonathan S. Weissman\*"
+    - "**Thomas M. Norman**"
+    - "Jonathan S. Weissman"
   buttons:
     - type: source
       link: https://gwps.wi.mit.edu/
@@ -35,8 +35,8 @@
       link: https://github.com/thomasmaxwellnorman/Perturbseq_GI
 - id: doi:10.1016/j.cell.2016.11.048
   authors:
-    - "Britt Adamson\*"
-    - "**Thomas M. Norman\***"
+    - "Britt Adamson"
+    - "**Thomas M. Norman**"
     - Marco Jost
     - Min Y. Cho
     - "James K. Nu\xF1ez"

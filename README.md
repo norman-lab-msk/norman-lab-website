@@ -1,5 +1,5 @@
 
-# norman-lab-mskDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# norman-lab-msk
 
 Visit **[norman-lab-msk.github.io/norman-lab-website](https://norman-lab-msk.github.io/norman-lab-website)** 🚀
 

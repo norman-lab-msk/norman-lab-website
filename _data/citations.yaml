@@ -111,3 +111,200 @@
     link: https://github.com/thomasmaxwellnorman/perturbseq_demo
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1038/s41587-019-0387-5
+  title: Titrating gene expression using libraries of systematically attenuated CRISPR
+    guide RNAs
+  authors:
+  - Marco Jost
+  - Daniel A. Santos
+  - Reuben A. Saunders
+  - Max A. Horlbeck
+  - John S. Hawkins
+  - Sonia M. Scaria
+  - Thomas M. Norman
+  - Jeffrey A. Hussmann
+  - Christina R. Liem
+  - Carol A. Gross
+  - Jonathan S. Weissman
+  publisher: Nature Biotechnology
+  date: '2020-01-13'
+  link: https://doi.org/gghp9c
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41587-020-0470-y
+  title: Combinatorial single-cell CRISPR screens by direct guide RNA capture and
+    targeted sequencing
+  authors:
+  - Joseph M. Replogle
+  - Thomas M. Norman
+  - Albert Xu
+  - Jeffrey A. Hussmann
+  - Jin Chen
+  - J. Zachery Cogan
+  - Elliott J. Meer
+  - Jessica M. Terry
+  - Daniel P. Riordan
+  - Niranjan Srinivas
+  - Ian T. Fiddes
+  - Joseph G. Arthur
+  - Luigi J. Alvarado
+  - Katherine A. Pfeiffer
+  - Tarjei S. Mikkelsen
+  - Jonathan S. Weissman
+  - Britt Adamson
+  publisher: Nature Biotechnology
+  date: '2020-03-30'
+  link: https://doi.org/ggqm4m
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41586-019-1184-5
+  title: Molecular recording of mammalian embryogenesis
+  authors:
+  - Michelle M. Chan
+  - Zachary D. Smith
+  - Stefanie Grosswendt
+  - Helene Kretzmer
+  - Thomas M. Norman
+  - Britt Adamson
+  - Marco Jost
+  - Jeffrey J. Quinn
+  - Dian Yang
+  - Matthew G. Jones
+  - Alex Khodaverdian
+  - Nir Yosef
+  - Alexander Meissner
+  - Jonathan S. Weissman
+  publisher: Nature
+  date: '2019-05-13'
+  link: https://doi.org/c56b
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cell.2016.11.038
+  title: 'Perturb-Seq: Dissecting Molecular Circuits with Scalable Single-Cell RNA
+    Profiling of Pooled Genetic Screens'
+  authors:
+  - Atray Dixit
+  - Oren Parnas
+  - Biyu Li
+  - Jenny Chen
+  - Charles P. Fulco
+  - Livnat Jerby-Arnon
+  - Nemanja D. Marjanovic
+  - Danielle Dionne
+  - Tyler Burks
+  - Raktima Raychowdhury
+  - Britt Adamson
+  - Thomas M. Norman
+  - Eric S. Lander
+  - Jonathan S. Weissman
+  - Nir Friedman
+  - Aviv Regev
+  publisher: Cell
+  date: '2016-12-01'
+  link: https://doi.org/f9prjd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cels.2016.04.002
+  title: Exploiting Natural Fluctuations to Identify Kinetic Mechanisms in Sparsely
+    Characterized Systems
+  authors:
+  - Andreas Hilfinger
+  - "Thomas\_M. Norman"
+  - Johan Paulsson
+  publisher: Cell Systems
+  date: '2016-04-01'
+  link: https://doi.org/gq3v2q
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1103/PhysRevLett.116.058101
+  title: Constraints on Fluctuations in Sparsely Characterized Biological Systems
+  authors:
+  - Andreas Hilfinger
+  - Thomas M. Norman
+  - Glenn Vinnicombe
+  - Johan Paulsson
+  publisher: Physical Review Letters
+  date: '2016-02-01'
+  link: https://doi.org/f8sxhd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/nature12804
+  title: Memory and modularity in cell-fate decision making
+  authors:
+  - Thomas M. Norman
+  - Nathan D. Lord
+  - Johan Paulsson
+  - Richard Losick
+  publisher: Nature
+  date: '2013-11-01'
+  link: https://doi.org/f5hr66
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s43586-021-00093-4
+  title: High-content CRISPR screening
+  authors:
+  - Christoph Bock
+  - Paul Datlinger
+  - Florence Chardon
+  - Matthew A. Coelho
+  - Matthew B. Dong
+  - Keith A. Lawson
+  - Tian Lu
+  - Laetitia Maroc
+  - Thomas M. Norman
+  - Bicna Song
+  - Geoff Stanley
+  - Sidi Chen
+  - Mathew Garnett
+  - Wei Li
+  - Jason Moffat
+  - Lei S. Qi
+  - Rebecca S. Shapiro
+  - Jay Shendure
+  - Jonathan S. Weissman
+  - Xiaowei Zhuang
+  publisher: Nature Reviews Methods Primers
+  date: '2022-02-10'
+  link: https://doi.org/gpgzrx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/emboj.2011.36
+  title: Evidence that metabolism and chromosome copy number control mutually exclusive
+    cell fates in<i>Bacillus subtilis</i>
+  authors:
+  - Yunrong Chai
+  - Thomas Norman
+  - Roberto Kolter
+  - Richard Losick
+  publisher: The EMBO Journal
+  date: '2011-02-15'
+  link: https://doi.org/dgtgs6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/gad.1915010
+  title: An epigenetic switch governing daughter cell separation in <i>Bacillus subtilis</i>
+  authors:
+  - Yunrong Chai
+  - Thomas Norman
+  - Roberto Kolter
+  - Richard Losick
+  publisher: Genes &amp; Development
+  date: '2010-03-29'
+  link: https://doi.org/fpmtmr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1073/pnas.1002499107
+  title: "Broadly heterogeneous activation of the master regulator for sporulation\
+    \ in\n            <i>Bacillus subtilis</i>"
+  authors:
+  - Arnaud Chastanet
+  - Dennis Vitkup
+  - Guo-Cheng Yuan
+  - Thomas M. Norman
+  - Jun S. Liu
+  - Richard M. Losick
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2010-04-19'
+  link: https://doi.org/fdv45d
+  plugin: sources.py
+  file: sources.yaml

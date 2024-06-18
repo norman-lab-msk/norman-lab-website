@@ -9,8 +9,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Exploring genetic interaction manifolds constructed from rich single-cell
-    phenotypes" style="rich" %}
+{% include citation.html lookup="Exploring genetic interaction manifolds constructed from rich single-cell phenotypes" style="rich" %}
 
 {% include section.html %}
 

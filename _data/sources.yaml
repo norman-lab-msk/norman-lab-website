@@ -16,14 +16,14 @@
     - Jessica L. Bonnar
     - Marco Jost
     - "**Thomas M. Norman&#42;**"
-    - "Jonathan S. Weissman`*`"
+    - "Jonathan S. Weissman&#42;"
   buttons:
     - type: source
       link: https://gwps.wi.mit.edu/
 - id: doi:10.1126/science.aax4438
   authors:
-    - "**Thomas M. Norman**"
-    - Max A. Horlbeck
+    - "**Thomas M. Norman&#42;**"
+    - "Max A. Horlbeck&#42;"
     - Joseph M. Replogle
     - Alex Y. Ge
     - Albert Xu
@@ -35,8 +35,8 @@
       link: https://github.com/thomasmaxwellnorman/Perturbseq_GI
 - id: doi:10.1016/j.cell.2016.11.048
   authors:
-    - "Britt Adamson`*`"
-    - "**Thomas M. Norman`*`**"
+    - "Britt Adamson&#42;"
+    - "**Thomas M. Norman&#42;**"
     - Marco Jost
     - Min Y. Cho
     - "James K. Nu\xF1ez"

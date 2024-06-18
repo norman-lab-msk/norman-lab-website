@@ -1,5 +1,5 @@
 - id: doi:10.1016/j.cell.2022.05.013
-    - type: website
+    - type: source
       link: https://gwps.wi.mit.edu/
 - id: doi:10.1126/science.aax4438
   buttons:

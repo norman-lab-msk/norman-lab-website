@@ -15,16 +15,43 @@
     - Doron Lipson
     - Jessica L. Bonnar
     - Marco Jost
-    - "**Thomas M. Norman***"
-    - "Jonathan S. Weissman*"
+    - "**Thomas M. Norman\***"
+    - "Jonathan S. Weissman\*"
   buttons:
     - type: source
       link: https://gwps.wi.mit.edu/
 - id: doi:10.1126/science.aax4438
+  authors:
+    - "**Thomas M. Norman**"
+    - Max A. Horlbeck
+    - Joseph M. Replogle
+    - Alex Y. Ge
+    - Albert Xu
+    - Marco Jost
+    - Luke A. Gilbert
+    - Jonathan S. Weissman
   buttons:
     - type: source
       link: https://github.com/thomasmaxwellnorman/Perturbseq_GI
 - id: doi:10.1016/j.cell.2016.11.048
+  authors:
+    - "Britt Adamson\*"
+    - "**Thomas M. Norman\***"
+    - Marco Jost
+    - Min Y. Cho
+    - "James K. Nu\xF1ez"
+    - Yuwen Chen
+    - Jacqueline E. Villalta
+    - Luke A. Gilbert
+    - Max A. Horlbeck
+    - Marco Y. Hein
+    - Ryan A. Pak
+    - Andrew N. Gray
+    - Carol A. Gross
+    - Atray Dixit
+    - Oren Parnas
+    - Aviv Regev
+    - Jonathan S. Weissman
   buttons:
     - type: source
       link: https://github.com/thomasmaxwellnorman/perturbseq_demo

@@ -39,7 +39,7 @@
   title: Exploring genetic interaction manifolds constructed from rich single-cell
     phenotypes
   authors:
-  - Thomas M. Norman
+  - '**Thomas M. Norman**'
   - Max A. Horlbeck
   - Joseph M. Replogle
   - Alex Y. Ge
@@ -75,8 +75,8 @@
   - Doron Lipson
   - Jessica L. Bonnar
   - Marco Jost
-  - '**Thomas M. Norman***'
-  - Jonathan S. Weissman*
+  - '**Thomas M. Norman**'
+  - Jonathan S. Weissman
   publisher: Cell
   date: '2022-07-01'
   link: https://doi.org/gqbhcn
@@ -90,7 +90,7 @@
     of the Unfolded Protein Response
   authors:
   - Britt Adamson
-  - Thomas M. Norman
+  - '**Thomas M. Norman**'
   - Marco Jost
   - Min Y. Cho
   - "James K. Nu\xF1ez"

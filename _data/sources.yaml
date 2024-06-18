@@ -1,4 +1,22 @@
 - id: doi:10.1016/j.cell.2022.05.013
+  authors:
+  - Joseph M. Replogle
+  - Reuben A. Saunders
+  - Angela N. Pogson
+  - Jeffrey A. Hussmann
+  - Alexander Lenail
+  - Alina Guna
+  - Lauren Mascibroda
+  - Eric J. Wagner
+  - Karen Adelman
+  - Gila Lithwick-Yanai
+  - Nika Iremadze
+  - Florian Oberstrass
+  - Doron Lipson
+  - Jessica L. Bonnar
+  - Marco Jost
+  - **Thomas M. Norman***
+  - Jonathan S. Weissman*
   buttons:
     - type: source
       link: https://gwps.wi.mit.edu/

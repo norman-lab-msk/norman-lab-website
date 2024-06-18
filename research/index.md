@@ -41,19 +41,3 @@ We develop new CRISPR tools for perturbing the genome and measuring the conseque
 {% endcapture %}
 
 {% include feature.html image="images/photo.jpg" link="research" title="CRISPR tool development" text=text %}
-
-
-
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}

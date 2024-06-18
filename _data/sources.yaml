@@ -1,7 +1,11 @@
+- id: doi:10.1016/j.cell.2022.05.013
 - id: doi:10.1126/science.aax4438
   buttons:
     - type: source
       link: https://github.com/thomasmaxwellnorman/Perturbseq_GI
-
+- id: doi:10.1016/j.cell.2016.11.048
+  buttons:
+    - type: source
+      link: https://github.com/thomasmaxwellnorman/perturbseq_demo
 - id: doi:10.1038/s41590-023-01527-9
 - id: doi:10.1126/science.aaw4506

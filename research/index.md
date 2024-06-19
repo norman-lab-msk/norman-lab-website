@@ -24,7 +24,7 @@ We are particularly interested in the biology of fibroblasts, which are ubiquito
 
 {% endcapture %}
 
-{% include feature.html image="images/photo.jpg" link="research" title="Genetic drivers of fibroblast cell state" text=text %}
+{% include feature.html image="images/myofibroblast.png" link="research" title="Genetic drivers of fibroblast cell state" text=text %}
 
 {% capture text %}
 

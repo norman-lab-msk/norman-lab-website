@@ -16,7 +16,7 @@ Recent cell atlas studies have found remarkable diversity in cell types, but als
 
 {% endcapture %}
 
-{% include feature.html image="images/schematic_cropped.png" link="research" title="Engineering transcriptional state <i>in vitro</i>" text=text %}
+{% include feature.html image="images/schematic_cropped.png" title="Engineering transcriptional state <i>in vitro</i>" text=text %}
 
 {% capture text %}
 
@@ -24,7 +24,7 @@ We are particularly interested in the biology of fibroblasts, which are ubiquito
 
 {% endcapture %}
 
-{% include feature.html image="images/myofibroblast.png" link="research" title="Genetic drivers of fibroblast cell state" text=text %}
+{% include feature.html image="images/myofibroblast.png" title="Genetic drivers of fibroblast cell state" text=text %}
 
 {% capture text %}
 
@@ -32,7 +32,7 @@ We are interested in developing new functional genomics approaches to tackle pro
 
 {% endcapture %}
 
-{% include feature.html image="images/active_learning.png" link="research" title="Combinatorial genetics" text=text %}
+{% include feature.html image="images/active_learning.png" title="Combinatorial genetics" text=text %}
 
 {% capture text %}
 
@@ -40,4 +40,4 @@ We develop new CRISPR tools for perturbing the genome and measuring the conseque
 
 {% endcapture %}
 
-{% include feature.html image="images/photo.jpg" link="research" title="CRISPR tool development" text=text %}
+{% include feature.html image="images/CRISPR_vs_endogenous.png" title="CRISPR tool development" text=text %}

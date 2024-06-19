@@ -1,5 +1,5 @@
 ---
-name: Anran Tang
+name: Anran (Angel) Tang
 image: images/anran-tang.webp
 role: phd
 ---

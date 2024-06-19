@@ -16,5 +16,5 @@ nav:
 
 {% include figure.html image="images/coldspringharbor.jpg" caption="Cold Spring Harbor" %}
 
-{% include figure.html image="images/zuckerman.jpg" caption="Mortimer B. Zuckerman Research Center" %}
+{% include figure.html image="images/theedge.jpg" caption="The Edge" %}
 

@@ -8,7 +8,8 @@ nav:
 # Team
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: admin" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$|admin$)" %}
 
 {% include section.html %}
 

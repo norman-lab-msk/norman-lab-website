@@ -23,7 +23,7 @@ programmer:
   description: Programmer
 
 admin:
-  icon: fa-solid fa-glasses
+  icon: fa-regular fa-calendar
   description: Administrative Assistant
 
 mascot:

@@ -27,5 +27,6 @@ We are located on the eleventh floor of Memorial Sloan Kettering's Mortimer B. Z
 {%
   include figure.html
   image="images/zuckerman.jpg"
+  width="80%"
   caption="Mortimer B. Zuckerman Research Center"
 %}

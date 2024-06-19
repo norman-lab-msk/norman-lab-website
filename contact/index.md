@@ -5,7 +5,7 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# Contact
 
 We are located on the eleventh floor of Memorial Sloan Kettering's Mortimer B. Zuckerman Research Center in the heart of the Upper East Side, Manhattan, NY. 
 

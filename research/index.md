@@ -32,7 +32,7 @@ We are interested in developing new functional genomics approaches to tackle pro
 
 {% endcapture %}
 
-{% include feature.html image="images/photo.jpg" link="research" title="Combinatorial genetics" text=text %}
+{% include feature.html image="images/active_learning.png" link="research" title="Combinatorial genetics" text=text %}
 
 {% capture text %}
 

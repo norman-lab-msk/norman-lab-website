@@ -19,7 +19,7 @@ We are located on the eleventh floor of Memorial Sloan Kettering's Mortimer B. Z
 {% include button.html
   type="twitter"
   text="Norman Lab X"
-  link="https://x.com/thenormanlab" %}
+  link="thenormanlab" %}
 
 {%
   include button.html

@@ -7,12 +7,14 @@
   - Eli Metzner
   - Kaden M. Southard
   - Thomas M. Norman
-  publisher: Cold Spring Harbor Laboratory
+  publisher: bioRxiv
   date: '2024-07-27'
   link: https://doi.org/gt5f8b
   orcid: 0000-0002-3755-4379
   plugin: sources.py
   file: sources.yaml
+  type: preprint
+  image: images/multiome_perturbseq_overview.png
 - id: doi:10.1038/s41590-023-01527-9
   title: Drivers of heterogeneity in synovial fibroblasts in rheumatoid arthritis
   authors:

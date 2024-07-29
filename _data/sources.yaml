@@ -72,3 +72,6 @@
   type: preprint
   image: images/multiome_perturbseq_overview.png
   publisher: bioRxiv
+  buttons:
+    - type: twitter
+      link: thenormanlab/status/1817964077848940765

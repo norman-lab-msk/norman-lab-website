@@ -7,7 +7,6 @@ The Norman Lab aims to combine large-scale functional genomics experiments with 
 
 {%
   include section.html
-  dark=true
   size=full
 %}
 # Updates

@@ -69,3 +69,6 @@
 - id: doi:10.1101/gad.1915010
 - id: doi:10.1073/pnas.1002499107
 - id: doi:10.1101/2024.07.26.605307
+  type: preprint
+  image: images/multiome_perturbseq_overview.png
+  publisher: bioRxiv

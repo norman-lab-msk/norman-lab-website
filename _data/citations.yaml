@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.07.26.605307
+  title: Multiome Perturb-seq unlocks scalable discovery of integrated perturbation
+    effects on the transcriptome and epigenome
+  authors:
+  - Eli Metzner
+  - Kaden M. Southard
+  - Thomas M. Norman
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-07-27'
+  link: https://doi.org/gt5f8b
+  orcid: 0000-0002-3755-4379
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41590-023-01527-9
   title: Drivers of heterogeneity in synovial fibroblasts in rheumatoid arthritis
   authors:

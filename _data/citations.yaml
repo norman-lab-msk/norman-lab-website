@@ -18,7 +18,7 @@
   plugin: sources.py
   file: sources.yaml
   type: preprint
-  image: images/crispra overview.PNG
+  image: images/crispra_overview.png
 - id: doi:10.1101/2024.07.26.605307
   title: Multiome Perturb-seq unlocks scalable discovery of integrated perturbation
     effects on the transcriptome and epigenome

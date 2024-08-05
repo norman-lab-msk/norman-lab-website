@@ -13,6 +13,8 @@ nav:
 
 {% include section.html %}
 
+{% include figure.html image="images/mets_game.jpg" width="80%" caption="Mets game" %}
+
 {% include figure.html image="images/paintnpour.jpg" width="80%" caption="Paint 'N Pour!" %}
 
 {% include figure.html image="images/coldspringharbor.jpg" width="80%" caption="Cold Spring Harbor" %}

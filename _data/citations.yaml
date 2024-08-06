@@ -19,6 +19,10 @@
   file: sources.yaml
   type: preprint
   image: images/crispra_overview.png
+  buttons:
+  - type: twitter
+    link: thenormanlab/status/1820846082626068862
+    text: Summary
 - id: doi:10.1101/2024.07.26.605307
   title: Multiome Perturb-seq unlocks scalable discovery of integrated perturbation
     effects on the transcriptome and epigenome

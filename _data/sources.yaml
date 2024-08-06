@@ -80,3 +80,7 @@
   type: preprint
   image: images/crispra_overview.png
   publisher: bioRxiv
+  buttons:
+    - type: twitter
+      link: thenormanlab/status/1820846082626068862
+      text: Summary

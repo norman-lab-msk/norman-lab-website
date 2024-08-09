@@ -74,7 +74,7 @@
   publisher: bioRxiv
   buttons:
     - type: xlink
-      link: x.com/thenormanlab/status/1817964077848940765
+      link: thenormanlab/status/1817964077848940765
       text: Summary
 - id: doi:10.1101/2024.07.31.606073
   type: preprint
@@ -82,5 +82,5 @@
   publisher: bioRxiv
   buttons:
     - type: xlink
-      link: x.com/thenormanlab/status/1820846082626068862
+      link: thenormanlab/status/1820846082626068862
       text: Summary

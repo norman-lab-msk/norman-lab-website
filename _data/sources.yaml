@@ -73,7 +73,7 @@
   image: images/multiome_perturbseq_overview.png
   publisher: bioRxiv
   buttons:
-    - type: xlink
+    - type: link
       link: thenormanlab/status/1817964077848940765
       text: Summary
 - id: doi:10.1101/2024.07.31.606073
@@ -81,6 +81,6 @@
   image: images/crispra_overview.png
   publisher: bioRxiv
   buttons:
-    - type: xlink
+    - type: link
       link: thenormanlab/status/1820846082626068862
       text: Summary

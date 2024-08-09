@@ -100,6 +100,12 @@ twitter:
   tooltip: Twitter
   link: https://twitter.com/$VALUE
 
+xlink:
+  icon: fa-brands fa-twitter
+  text: Twitter
+  tooltip: Twitter
+  link: $VALUE
+
 facebook:
   icon: fa-brands fa-facebook
   text: Facebook

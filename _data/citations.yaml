@@ -20,7 +20,7 @@
   type: preprint
   image: images/crispra_overview.png
   buttons:
-  - type: xlink
+  - type: link
     link: thenormanlab/status/1820846082626068862
     text: Summary
 - id: doi:10.1101/2024.07.26.605307
@@ -39,7 +39,7 @@
   type: preprint
   image: images/multiome_perturbseq_overview.png
   buttons:
-  - type: xlink
+  - type: link
     link: thenormanlab/status/1817964077848940765
     text: Summary
 - id: doi:10.1038/s41590-023-01527-9

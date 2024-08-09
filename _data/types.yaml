@@ -104,7 +104,7 @@ xlink:
   icon: fa-brands fa-twitter
   text: Twitter
   tooltip: Twitter
-  link: $VALUE
+  link: https://x.com/$VALUE
 
 facebook:
   icon: fa-brands fa-facebook

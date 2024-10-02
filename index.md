@@ -14,4 +14,4 @@ The Norman Lab aims to combine large-scale functional genomics experiments with 
 
 **July 2024** Eli and Kaden's [preprint](https://www.biorxiv.org/content/10.1101/2024.07.26.605307v1) on Multiome Perturb-seq is out! Overview [here](https://x.com/thenormanlab/status/1817964077848940765). 
 
-**July 2022** Genomewide Perturb-seq, joint with Weissman Lab, is out in [_Cell_](https://www.sciencedirect.com/science/article/pii/S0092867422005979)!. Raw and processed data available [here](https://gwps.wi.mit.edu/).
+**July 2022** Genomewide Perturb-seq, joint with Weissman Lab, is out in [_Cell_](https://www.sciencedirect.com/science/article/pii/S0092867422005979)! Raw and processed data available [here](https://gwps.wi.mit.edu/).

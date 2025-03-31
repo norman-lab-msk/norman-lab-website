@@ -15,8 +15,6 @@ nav:
 
 {% include citation.html lookup="Mapping information-rich genotype-phenotype landscapes with genome-scale Perturb-seq" style="rich" %}
 
-{% include citation.html lookup="Exploring genetic interaction manifolds constructed from rich single-cell phenotypes" style="rich" %}
-
 {% include section.html %}
 
 ## All

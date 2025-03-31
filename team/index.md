@@ -13,6 +13,8 @@ nav:
 
 {% include section.html %}
 
+{% include figure.html image="images/IMG_5788.jpg" width="80%" caption="Conveyor belt sushi" %}
+
 {% include figure.html image="images/mets_game.jpg" width="80%" caption="Mets game" %}
 
 {% include figure.html image="images/paintnpour.jpg" width="80%" caption="Paint 'N Pour!" %}

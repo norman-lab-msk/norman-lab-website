@@ -68,10 +68,8 @@
 - id: doi:10.1038/emboj.2011.36
 - id: doi:10.1101/gad.1915010
 - id: doi:10.1073/pnas.1002499107
-- id: doi:10.1101/2024.07.26.605307
-  type: preprint
+- id: doi:10.1016/j.cels.2024.12.002
   image: images/multiome_perturbseq_overview.png
-  publisher: bioRxiv
   buttons:
     - type: link
       link: https://x.com/thenormanlab/status/1817964077848940765

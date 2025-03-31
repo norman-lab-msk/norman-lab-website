@@ -9,11 +9,13 @@ nav:
 
 ## Highlighted
 
+{% include citation.html lookup="Comprehensive transcription factor perturbations recapitulate fibroblast transcriptional states" style="rich" %}
+
+{% include citation.html lookup="Multiome Perturb-seq unlocks scalable discovery of integrated perturbation effects on the transcriptome and epigenome" style="rich" %}
+
 {% include citation.html lookup="Mapping information-rich genotype-phenotype landscapes with genome-scale Perturb-seq" style="rich" %}
 
 {% include citation.html lookup="Exploring genetic interaction manifolds constructed from rich single-cell phenotypes" style="rich" %}
-
-{% include citation.html lookup="A Multiplexed Single-Cell CRISPR Screening Platform Enables Systematic Dissection of the Unfolded Protein Response" style="rich" %}
 
 {% include section.html %}
 

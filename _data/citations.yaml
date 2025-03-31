@@ -18,6 +18,12 @@
   - type: link
     link: https://x.com/thenormanlab/status/1817964077848940765
     text: Summary
+  - type: source
+    link: https://zenodo.org/records/15116138
+    text: Processed data
+  - type: docs
+    link: resources/Methods%20S1%20-%20Protocol%20for%20T7-assisted%20sgRNA%20ID%20library%20prep.pdf
+    text: Protocol
 - id: doi:10.1101/2024.07.31.606073
   title: Comprehensive transcription factor perturbations recapitulate fibroblast
     transcriptional states

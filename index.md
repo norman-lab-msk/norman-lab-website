@@ -10,6 +10,8 @@ The Norman Lab aims to combine large-scale functional genomics experiments with 
   size=full
 %}
 # Updates
+**August 2025** Kaden and Rico's [paper](https://www.nature.com/articles/s41588-025-02284-1) on recreating fibroblast transcriptional states using CRISPRa Perturb-seq is now out at Nature Genetics! Overview [here](https://x.com/thenormanlab/status/1953107039950889213) and [here](https://bsky.app/profile/normanlab.bsky.social/post/3lvqj7wy3is2r).
+
 **January 2025** Multiome Perturb-seq paper is [out](https://www.cell.com/cell-systems/fulltext/S2405-4712(24)00366-1) in *Cell Systems*. Processed data [here](https://zenodo.org/records/15116138). Protocol [here](resources/Methods%20S1%20-%20Protocol%20for%20T7-assisted%20sgRNA%20ID%20library%20prep.pdf).
 
 **August 2024** Kaden and Rico's [preprint](https://www.biorxiv.org/content/10.1101/2024.07.31.606073v1) on recreating fibroblast transcriptional states using CRISPRa Perturb-seq is out! Overview [here](https://x.com/thenormanlab/status/1820846082626068862).

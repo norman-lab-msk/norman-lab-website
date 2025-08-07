@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41588-025-02284-1
+  title: Comprehensive transcription factor perturbations recapitulate fibroblast
+    transcriptional states
+  authors:
+  - Kaden M. Southard
+  - Rico C. Ardy
+  - Anran Tang
+  - "Deirdre D. O\u2019Sullivan"
+  - Eli Metzner
+  - Karthik Guruvayurappan
+  - Thomas M. Norman
+  publisher: Nature Genetics
+  date: '2025-08-06'
+  link: https://doi.org/g9wgrx
+  orcid: 0000-0002-3755-4379
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.cels.2024.12.002
   title: Multiome Perturb-seq unlocks scalable discovery of integrated perturbation
     effects on the transcriptome and epigenome

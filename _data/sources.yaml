@@ -53,9 +53,19 @@
     - Aviv Regev
     - Jonathan S. Weissman
   buttons:
+    - type: link
+      link: https://x.com/thenormanlab/status/1817964077848940765
+      text: Summary
     - type: source
       link: https://github.com/thomasmaxwellnorman/perturbseq_demo
 - id: doi:10.64898/2026.01.16.699948
+  buttons:
+    - type: link
+      link: https://x.com/thenormanlab/status/2013605775973798331?s=20
+      text: Summary
+    - type: source
+      link: https://github.com/norman-lab-msk/PORTAL
+  publisher: bioRxiv
 - id: doi:10.1038/s41590-023-01527-9
 - id: doi:10.1126/science.aaw4506
 - id: doi:10.1038/s41587-019-0387-5
@@ -83,9 +93,14 @@
       text: Protocol
 - id: doi:10.1101/2024.07.31.606073
   type: preprint
-  image: images/crispra_overview.png
   publisher: bioRxiv
   buttons:
     - type: link
       link: https://x.com/thenormanlab/status/1820846082626068862
+      text: Summary
+- id: doi:10.1038/s41588-025-02284-1
+  image: images/crispra_overview.png
+  buttons:
+    - type: link
+      link: https://x.com/thenormanlab/status/1953107039950889213
       text: Summary

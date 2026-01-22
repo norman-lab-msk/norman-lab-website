@@ -55,6 +55,7 @@
   buttons:
     - type: source
       link: https://github.com/thomasmaxwellnorman/perturbseq_demo
+- id: doi:10.64898/2026.01.16.699948
 - id: doi:10.1038/s41590-023-01527-9
 - id: doi:10.1126/science.aaw4506
 - id: doi:10.1038/s41587-019-0387-5

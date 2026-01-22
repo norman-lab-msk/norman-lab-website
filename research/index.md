@@ -8,12 +8,11 @@ nav:
 # Publications
 
 ## Highlighted
+{% include citation.html lookup="Scaling perturbations: beyond genome-scale CRISPR screens" style="rich" %}
 
 {% include citation.html lookup="Comprehensive transcription factor perturbations recapitulate fibroblast transcriptional states" style="rich" %}
 
 {% include citation.html lookup="Multiome Perturb-seq unlocks scalable discovery of integrated perturbation effects on the transcriptome and epigenome" style="rich" %}
-
-{% include citation.html lookup="Mapping information-rich genotype-phenotype landscapes with genome-scale Perturb-seq" style="rich" %}
 
 {% include section.html %}
 

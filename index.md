@@ -10,6 +10,8 @@ The Norman Lab aims to combine large-scale functional genomics experiments with 
   size=full
 %}
 # Updates
+**January 2026** Angel and Rico's [preprint](https://www.biorxiv.org/content/10.64898/2026.01.16.699948v1) on technologies for scaling up CRISPR screens to "beyond genome-scale" is out! Overview [here](https://x.com/thenormanlab/status/2013605775973798331?s=20) and [here](https://bsky.app/profile/normanlab.bsky.social/post/3mcubwlf5i22j). A protocol for CAP cloning, our approach for constructing ultracomplex lentiviral libraries, is [here](https://www.biorxiv.org/content/biorxiv/early/2026/01/17/2026.01.16.699948/DC2/embed/media-2.docx?download=true).
+
 **August 2025** Kaden and Rico's [paper](https://www.nature.com/articles/s41588-025-02284-1) on recreating fibroblast transcriptional states using CRISPRa Perturb-seq is now out at _Nature Genetics_! Overview [here](https://x.com/thenormanlab/status/1953107039950889213) and [here](https://bsky.app/profile/normanlab.bsky.social/post/3lvqj7wy3is2r).
 
 **January 2025** Multiome Perturb-seq paper is [out](https://www.cell.com/cell-systems/fulltext/S2405-4712(24)00366-1) in *Cell Systems*. Processed data [here](https://zenodo.org/records/15116138). Protocol [here](resources/Methods%20S1%20-%20Protocol%20for%20T7-assisted%20sgRNA%20ID%20library%20prep.pdf).

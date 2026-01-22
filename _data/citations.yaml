@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.01.16.699948
+  title: 'Scaling perturbations: beyond genome-scale CRISPR screens'
+  authors:
+  - Anran Tang
+  - Rico C. Ardy
+  - Rafaela E. Mendes
+  - Thomas M. Norman
+  publisher: openRxiv
+  date: '2026-01-17'
+  link: https://doi.org/hbk2pj
+  orcid: 0000-0002-3755-4379
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41588-025-02284-1
   title: Comprehensive transcription factor perturbations recapitulate fibroblast
     transcriptional states
@@ -71,7 +84,7 @@
   - Eli Metzner
   - Kaden M. Southard
   - Thomas M. Norman
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-07-27'
   link: https://doi.org/gt5f8b
   orcid: 0000-0002-3755-4379
@@ -350,7 +363,7 @@
   file: sources.yaml
 - id: doi:10.1038/emboj.2011.36
   title: Evidence that metabolism and chromosome copy number control mutually exclusive
-    cell fates in<i>Bacillus subtilis</i>
+    cell fates in Bacillus subtilis
   authors:
   - Yunrong Chai
   - Thomas Norman
@@ -362,7 +375,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/gad.1915010
-  title: An epigenetic switch governing daughter cell separation in <i>Bacillus subtilis</i>
+  title: "An epigenetic switch governing daughter cell separation in\n           \
+    \         <i>Bacillus subtilis</i>"
   authors:
   - Yunrong Chai
   - Thomas Norman

@@ -10,6 +10,8 @@ The Norman Lab aims to combine large-scale functional genomics experiments with 
   size=full
 %}
 # Updates
+**October 2026** Eli and Karthik's [preprint](https://www.biorxiv.org/content/10.64898/2026.10.09.758047v1), joint with the Dey Lab, is out! We engineer cell states to reveal hidden disease biology and analyse how polygenic risk converges on core genes, supporting a state-dependent omnigenic model. Overviews on [X](https://x.com/thenormanlab/status/2110020886442983701) and [Bluesky](https://bsky.app/profile/normanlab.bsky.social/post/3mxrdbdphfk2s).
+
 **January 2026** Angel and Rico's [preprint](https://www.biorxiv.org/content/10.64898/2026.01.16.699948v1) on technologies for scaling up CRISPR screens to "beyond genome-scale" is out! Overview [here](https://x.com/thenormanlab/status/2013605775973798331?s=20) and [here](https://bsky.app/profile/normanlab.bsky.social/post/3mcubwlf5i22j). A protocol for CAP cloning, our approach for constructing ultracomplex lentiviral libraries, is [here](https://www.biorxiv.org/content/biorxiv/early/2026/01/17/2026.01.16.699948/DC2/embed/media-2.docx?download=true).
 
 **August 2025** Kaden and Rico's [paper](https://www.nature.com/articles/s41588-025-02284-1) on recreating fibroblast transcriptional states using CRISPRa Perturb-seq is now out at _Nature Genetics_! Overview [here](https://x.com/thenormanlab/status/1953107039950889213) and [here](https://bsky.app/profile/normanlab.bsky.social/post/3lvqj7wy3is2r).
